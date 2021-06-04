@@ -12,7 +12,8 @@ My Server: [Link][DiscordSv]
 - Facebook [<img alt="codeSTACKr | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]   
 - Instagram [<img alt="codeSTACKr | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]  
 
-**Soi?**
 [DiscordSv]: https://discord.gg/8yfv46W
 [Facebook]: https://www.facebook.com/anikuxac
 [Instagram]: https://www.instagram.com/alikuxac/
+
+**Soi?**
