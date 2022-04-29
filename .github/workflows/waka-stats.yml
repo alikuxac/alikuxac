@@ -1,6 +1,7 @@
 name: Realtime Development Stats
 
 on:
+  push: 
   schedule:
     - cron: '0 0 * * *'
 
