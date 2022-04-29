@@ -1,7 +1,6 @@
 name: Update README with Github Recent Activity
 
 on:
-  push:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
