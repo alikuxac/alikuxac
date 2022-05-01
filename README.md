@@ -19,11 +19,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/alikuxac/alikuxac/pull/2) in [alikuxac/alikuxac](https://github.com/alikuxac/alikuxac)
-2. 🎉 Merged PR [#8](https://github.com/alikuxac/AliMusic/pull/8) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
-3. 🗣 Commented on [#22](https://github.com/Reitsukai/wynn-bot/issues/22) in [Reitsukai/wynn-bot](https://github.com/Reitsukai/wynn-bot)
-4. 🎉 Merged PR [#5](https://github.com/AliCuFe/npm-ts-template/pull/5) in [AliCuFe/npm-ts-template](https://github.com/AliCuFe/npm-ts-template)
-5. 🎉 Merged PR [#4](https://github.com/AliCuFe/npm-ts-template/pull/4) in [AliCuFe/npm-ts-template](https://github.com/AliCuFe/npm-ts-template)
+1. 🎉 Merged PR [#14](https://github.com/alikuxac/AliMusic/pull/14) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+2. 🎉 Merged PR [#13](https://github.com/alikuxac/AliMusic/pull/13) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+3. 🎉 Merged PR [#12](https://github.com/alikuxac/AliMusic/pull/12) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+4. 🎉 Merged PR [#11](https://github.com/alikuxac/AliMusic/pull/11) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+5. 🎉 Merged PR [#10](https://github.com/alikuxac/AliMusic/pull/10) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
