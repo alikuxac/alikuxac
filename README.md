@@ -1,4 +1,5 @@
 # Hi, I'm Alikuxac! 👋
+[![wakatime](https://wakatime.com/badge/user/f351a39f-05c3-4440-84c7-6444ba23d95e.svg)](https://wakatime.com/@alikuxac)
 ## 🚀 About Me
 Nickname: Alikuxac.
 Sex: Male.
