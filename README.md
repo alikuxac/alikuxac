@@ -4,6 +4,9 @@
 Nickname: Alikuxac.
 Sex: Male.
 
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1ug46od67cxvdqjx4zr7l33i4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1ug46od67cxvdqjx4zr7l33i4)
+
 ## 🔗 Links
 [![portfolio][portfolio-badge]][website-link][![twitter][twitter-badge]][twitter-link][![discord][discord-badge]][discord-link]
 
