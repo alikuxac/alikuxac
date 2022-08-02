@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/AliCuFe/discord-api-status/pull/3) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
-2. 🎉 Merged PR [#5](https://github.com/alikuxac/website/pull/5) in [alikuxac/website](https://github.com/alikuxac/website)
-3. 🎉 Merged PR [#31](https://github.com/alikuxac/api/pull/31) in [alikuxac/api](https://github.com/alikuxac/api)
-4. 🎉 Merged PR [#30](https://github.com/alikuxac/api/pull/30) in [alikuxac/api](https://github.com/alikuxac/api)
-5. 🎉 Merged PR [#29](https://github.com/alikuxac/api/pull/29) in [alikuxac/api](https://github.com/alikuxac/api)
+1. 🎉 Merged PR [#32](https://github.com/alikuxac/api/pull/32) in [alikuxac/api](https://github.com/alikuxac/api)
+2. 🎉 Merged PR [#3](https://github.com/AliCuFe/discord-api-status/pull/3) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
+3. 🎉 Merged PR [#5](https://github.com/alikuxac/website/pull/5) in [alikuxac/website](https://github.com/alikuxac/website)
+4. 🎉 Merged PR [#31](https://github.com/alikuxac/api/pull/31) in [alikuxac/api](https://github.com/alikuxac/api)
+5. 🎉 Merged PR [#30](https://github.com/alikuxac/api/pull/30) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
