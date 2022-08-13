@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/alikuxac/website/pull/6) in [alikuxac/website](https://github.com/alikuxac/website)
-2. ❗️ Closed issue [#36](https://github.com/alikuxac/api/issues/36) in [alikuxac/api](https://github.com/alikuxac/api)
-3. ❗️ Closed issue [#35](https://github.com/alikuxac/api/issues/35) in [alikuxac/api](https://github.com/alikuxac/api)
-4. ❗️ Opened issue [#36](https://github.com/alikuxac/api/issues/36) in [alikuxac/api](https://github.com/alikuxac/api)
-5. ❗️ Opened issue [#35](https://github.com/alikuxac/api/issues/35) in [alikuxac/api](https://github.com/alikuxac/api)
+1. 🗣 Commented on [#11](https://github.com/alikuxac/api/issues/11) in [alikuxac/api](https://github.com/alikuxac/api)
+2. 🗣 Commented on [#10](https://github.com/alikuxac/api/issues/10) in [alikuxac/api](https://github.com/alikuxac/api)
+3. 🗣 Commented on [#8](https://github.com/alikuxac/api/issues/8) in [alikuxac/api](https://github.com/alikuxac/api)
+4. 🗣 Commented on [#7](https://github.com/alikuxac/api/issues/7) in [alikuxac/api](https://github.com/alikuxac/api)
+5. 🗣 Commented on [#6](https://github.com/alikuxac/api/issues/6) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
