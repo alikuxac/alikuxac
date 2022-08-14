@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/alikuxac/api/issues/15) in [alikuxac/api](https://github.com/alikuxac/api)
-2. 🗣 Commented on [#14](https://github.com/alikuxac/api/issues/14) in [alikuxac/api](https://github.com/alikuxac/api)
-3. 🗣 Commented on [#13](https://github.com/alikuxac/api/issues/13) in [alikuxac/api](https://github.com/alikuxac/api)
-4. 🗣 Commented on [#11](https://github.com/alikuxac/api/issues/11) in [alikuxac/api](https://github.com/alikuxac/api)
-5. 🗣 Commented on [#10](https://github.com/alikuxac/api/issues/10) in [alikuxac/api](https://github.com/alikuxac/api)
+1. 🎉 Merged PR [#3](https://github.com/alikuxac/douyin-worker/pull/3) in [alikuxac/douyin-worker](https://github.com/alikuxac/douyin-worker)
+2. 🎉 Merged PR [#2](https://github.com/alikuxac/douyin-worker/pull/2) in [alikuxac/douyin-worker](https://github.com/alikuxac/douyin-worker)
+3. 🎉 Merged PR [#38](https://github.com/alikuxac/api/pull/38) in [alikuxac/api](https://github.com/alikuxac/api)
+4. 🗣 Commented on [#15](https://github.com/alikuxac/api/issues/15) in [alikuxac/api](https://github.com/alikuxac/api)
+5. 🗣 Commented on [#14](https://github.com/alikuxac/api/issues/14) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
