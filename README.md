@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/alikuxac/ptero-worker/pull/12) in [alikuxac/ptero-worker](https://github.com/alikuxac/ptero-worker)
-2. 🎉 Merged PR [#10](https://github.com/alikuxac/ptero-worker/pull/10) in [alikuxac/ptero-worker](https://github.com/alikuxac/ptero-worker)
-3. 🎉 Merged PR [#7](https://github.com/alikuxac/website/pull/7) in [alikuxac/website](https://github.com/alikuxac/website)
-4. 🎉 Merged PR [#3](https://github.com/alikuxac/douyin-worker/pull/3) in [alikuxac/douyin-worker](https://github.com/alikuxac/douyin-worker)
-5. 🎉 Merged PR [#2](https://github.com/alikuxac/douyin-worker/pull/2) in [alikuxac/douyin-worker](https://github.com/alikuxac/douyin-worker)
+1. ❗️ Closed issue [#39](https://github.com/alikuxac/api/issues/39) in [alikuxac/api](https://github.com/alikuxac/api)
+2. ❗️ Reopened issue [#39](https://github.com/alikuxac/api/issues/39) in [alikuxac/api](https://github.com/alikuxac/api)
+3. ❗️ Closed issue [#39](https://github.com/alikuxac/api/issues/39) in [alikuxac/api](https://github.com/alikuxac/api)
+4. 🗣 Commented on [#39](https://github.com/alikuxac/api/issues/39) in [alikuxac/api](https://github.com/alikuxac/api)
+5. ❗️ Opened issue [#39](https://github.com/alikuxac/api/issues/39) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
