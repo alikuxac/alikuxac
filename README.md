@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/alikuxac/api/issues/40) in [alikuxac/api](https://github.com/alikuxac/api)
-2. ❗️ Opened issue [#40](https://github.com/alikuxac/api/issues/40) in [alikuxac/api](https://github.com/alikuxac/api)
-3. ❗️ Closed issue [#39](https://github.com/alikuxac/api/issues/39) in [alikuxac/api](https://github.com/alikuxac/api)
-4. ❗️ Reopened issue [#39](https://github.com/alikuxac/api/issues/39) in [alikuxac/api](https://github.com/alikuxac/api)
-5. ❗️ Closed issue [#39](https://github.com/alikuxac/api/issues/39) in [alikuxac/api](https://github.com/alikuxac/api)
+1. 🎉 Merged PR [#17](https://github.com/alikuxac/ptero-worker/pull/17) in [alikuxac/ptero-worker](https://github.com/alikuxac/ptero-worker)
+2. 🎉 Merged PR [#16](https://github.com/alikuxac/ptero-worker/pull/16) in [alikuxac/ptero-worker](https://github.com/alikuxac/ptero-worker)
+3. 🎉 Merged PR [#15](https://github.com/alikuxac/ptero-worker/pull/15) in [alikuxac/ptero-worker](https://github.com/alikuxac/ptero-worker)
+4. 🎉 Merged PR [#14](https://github.com/alikuxac/ptero-worker/pull/14) in [alikuxac/ptero-worker](https://github.com/alikuxac/ptero-worker)
+5. 🎉 Merged PR [#13](https://github.com/alikuxac/ptero-worker/pull/13) in [alikuxac/ptero-worker](https://github.com/alikuxac/ptero-worker)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
