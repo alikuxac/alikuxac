@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#42](https://github.com/alikuxac/api/issues/42) in [alikuxac/api](https://github.com/alikuxac/api)
-2. ❗️ Opened issue [#43](https://github.com/alikuxac/api/issues/43) in [alikuxac/api](https://github.com/alikuxac/api)
-3. ❗️ Opened issue [#42](https://github.com/alikuxac/api/issues/42) in [alikuxac/api](https://github.com/alikuxac/api)
-4. 🎉 Merged PR [#41](https://github.com/alikuxac/api/pull/41) in [alikuxac/api](https://github.com/alikuxac/api)
-5. 🎉 Merged PR [#25](https://github.com/alikuxac/ptero-worker/pull/25) in [alikuxac/ptero-worker](https://github.com/alikuxac/ptero-worker)
+1. ❗️ Closed issue [#43](https://github.com/alikuxac/api/issues/43) in [alikuxac/api](https://github.com/alikuxac/api)
+2. 🗣 Commented on [#43](https://github.com/alikuxac/api/issues/43) in [alikuxac/api](https://github.com/alikuxac/api)
+3. 🗣 Commented on [#43](https://github.com/alikuxac/api/issues/43) in [alikuxac/api](https://github.com/alikuxac/api)
+4. ❗️ Closed issue [#42](https://github.com/alikuxac/api/issues/42) in [alikuxac/api](https://github.com/alikuxac/api)
+5. ❗️ Opened issue [#43](https://github.com/alikuxac/api/issues/43) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
