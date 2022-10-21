@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/AliCuFe/discord-api-status/pull/20) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
-2. 🎉 Merged PR [#19](https://github.com/AliCuFe/discord-api-status/pull/19) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
-3. 🎉 Merged PR [#18](https://github.com/AliCuFe/discord-api-status/pull/18) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
-4. 🎉 Merged PR [#17](https://github.com/AliCuFe/discord-api-status/pull/17) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
-5. ❌ Closed PR [#16](https://github.com/AliCuFe/discord-api-status/pull/16) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
+1. 🎉 Merged PR [#22](https://github.com/AliCuFe/discord-api-status/pull/22) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
+2. 🎉 Merged PR [#21](https://github.com/AliCuFe/discord-api-status/pull/21) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
+3. 🎉 Merged PR [#20](https://github.com/AliCuFe/discord-api-status/pull/20) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
+4. 🎉 Merged PR [#19](https://github.com/AliCuFe/discord-api-status/pull/19) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
+5. 🎉 Merged PR [#18](https://github.com/AliCuFe/discord-api-status/pull/18) in [AliCuFe/discord-api-status](https://github.com/AliCuFe/discord-api-status)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
