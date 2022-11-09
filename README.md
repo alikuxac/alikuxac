@@ -31,13 +31,13 @@ Sex: Male.
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C857%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C856%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 862 Contributions in the Year 2022
+> 🏆 863 Contributions in the Year 2022
  > 
 > 📦 25.4 kB Used in GitHub's Storage 
  > 
@@ -50,17 +50,17 @@ Sex: Male.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    157 commits    ███████░░░░░░░░░░░░░░░░░░   30.13% 
+🌞 Morning    156 commits    ███████░░░░░░░░░░░░░░░░░░   29.94% 
 🌆 Daytime    125 commits    ██████░░░░░░░░░░░░░░░░░░░   23.99% 
-🌃 Evening    151 commits    ███████░░░░░░░░░░░░░░░░░░   28.98% 
+🌃 Evening    152 commits    ███████░░░░░░░░░░░░░░░░░░   29.17% 
 🌙 Night      88 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.89%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
-Tuesday      85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
+Monday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+Tuesday      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
 Wednesday    92 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
 Thursday     89 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
 Friday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
@@ -76,13 +76,15 @@ Sunday       62 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               54 mins             ████████████████████████░   98.4% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  55 mins             █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +105,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/alikuxac/alikuxac/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 12:40:34 UTC
+ Last Updated on 09/11/2022 01:30:24 UTC
 <!--END_SECTION:waka-->
 
 <!--- Link definition --->
