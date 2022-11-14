@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/alikuxac/api/pull/66) in [alikuxac/api](https://github.com/alikuxac/api)
-2. 🎉 Merged PR [#63](https://github.com/alikuxac/api/pull/63) in [alikuxac/api](https://github.com/alikuxac/api)
-3. 🎉 Merged PR [#8](https://github.com/alikuxac/douyin-worker/pull/8) in [alikuxac/douyin-worker](https://github.com/alikuxac/douyin-worker)
-4. 🎉 Merged PR [#44](https://github.com/alikuxac/AliMusic/pull/44) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
-5. ❗️ Closed issue [#57](https://github.com/alikuxac/api/issues/57) in [alikuxac/api](https://github.com/alikuxac/api)
+1. 🎉 Merged PR [#9](https://github.com/alikuxac/douyin-worker/pull/9) in [alikuxac/douyin-worker](https://github.com/alikuxac/douyin-worker)
+2. 🎉 Merged PR [#66](https://github.com/alikuxac/api/pull/66) in [alikuxac/api](https://github.com/alikuxac/api)
+3. 🎉 Merged PR [#63](https://github.com/alikuxac/api/pull/63) in [alikuxac/api](https://github.com/alikuxac/api)
+4. 🎉 Merged PR [#8](https://github.com/alikuxac/douyin-worker/pull/8) in [alikuxac/douyin-worker](https://github.com/alikuxac/douyin-worker)
+5. 🎉 Merged PR [#44](https://github.com/alikuxac/AliMusic/pull/44) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
