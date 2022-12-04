@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/alikuxac/api/pull/74) in [alikuxac/api](https://github.com/alikuxac/api)
-2. 💪 Opened PR [#74](https://github.com/alikuxac/api/pull/74) in [alikuxac/api](https://github.com/alikuxac/api)
-3. 🗣 Commented on [#4](https://github.com/alikuxac/AliMusic/issues/4) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
-4. 🗣 Commented on [#1](https://github.com/alikuxac/api/issues/1) in [alikuxac/api](https://github.com/alikuxac/api)
-5. 💪 Opened PR [#72](https://github.com/alikuxac/api/pull/72) in [alikuxac/api](https://github.com/alikuxac/api)
+1. 🎉 Merged PR [#73](https://github.com/alikuxac/api/pull/73) in [alikuxac/api](https://github.com/alikuxac/api)
+2. 🎉 Merged PR [#74](https://github.com/alikuxac/api/pull/74) in [alikuxac/api](https://github.com/alikuxac/api)
+3. 💪 Opened PR [#74](https://github.com/alikuxac/api/pull/74) in [alikuxac/api](https://github.com/alikuxac/api)
+4. 🗣 Commented on [#4](https://github.com/alikuxac/AliMusic/issues/4) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+5. 🗣 Commented on [#1](https://github.com/alikuxac/api/issues/1) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
