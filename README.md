@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/alikuxac/doan/pull/5) in [alikuxac/doan](https://github.com/alikuxac/doan)
-2. 🎉 Merged PR [#4](https://github.com/alikuxac/doan/pull/4) in [alikuxac/doan](https://github.com/alikuxac/doan)
-3. 🎉 Merged PR [#76](https://github.com/alikuxac/api/pull/76) in [alikuxac/api](https://github.com/alikuxac/api)
-4. 🎉 Merged PR [#75](https://github.com/alikuxac/api/pull/75) in [alikuxac/api](https://github.com/alikuxac/api)
-5. 🎉 Merged PR [#49](https://github.com/alikuxac/AliMusic/pull/49) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+1. 🎉 Merged PR [#78](https://github.com/alikuxac/api/pull/78) in [alikuxac/api](https://github.com/alikuxac/api)
+2. 🎉 Merged PR [#77](https://github.com/alikuxac/api/pull/77) in [alikuxac/api](https://github.com/alikuxac/api)
+3. 🎉 Merged PR [#5](https://github.com/alikuxac/doan/pull/5) in [alikuxac/doan](https://github.com/alikuxac/doan)
+4. 🎉 Merged PR [#4](https://github.com/alikuxac/doan/pull/4) in [alikuxac/doan](https://github.com/alikuxac/doan)
+5. 🎉 Merged PR [#76](https://github.com/alikuxac/api/pull/76) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
