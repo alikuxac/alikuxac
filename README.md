@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/alikuxac/thuctap-be/pull/6) in [alikuxac/thuctap-be](https://github.com/alikuxac/thuctap-be)
-2. ❌ Closed PR [#5](https://github.com/alikuxac/thuctap-be/pull/5) in [alikuxac/thuctap-be](https://github.com/alikuxac/thuctap-be)
-3. ❌ Closed PR [#4](https://github.com/alikuxac/thuctap-be/pull/4) in [alikuxac/thuctap-be](https://github.com/alikuxac/thuctap-be)
-4. ❌ Closed PR [#3](https://github.com/alikuxac/thuctap-be/pull/3) in [alikuxac/thuctap-be](https://github.com/alikuxac/thuctap-be)
-5. ❌ Closed PR [#2](https://github.com/alikuxac/thuctap-be/pull/2) in [alikuxac/thuctap-be](https://github.com/alikuxac/thuctap-be)
+1. ❌ Closed PR [#7](https://github.com/alikuxac/thuctap-be/pull/7) in [alikuxac/thuctap-be](https://github.com/alikuxac/thuctap-be)
+2. ❌ Closed PR [#6](https://github.com/alikuxac/thuctap-be/pull/6) in [alikuxac/thuctap-be](https://github.com/alikuxac/thuctap-be)
+3. ❌ Closed PR [#5](https://github.com/alikuxac/thuctap-be/pull/5) in [alikuxac/thuctap-be](https://github.com/alikuxac/thuctap-be)
+4. ❌ Closed PR [#4](https://github.com/alikuxac/thuctap-be/pull/4) in [alikuxac/thuctap-be](https://github.com/alikuxac/thuctap-be)
+5. ❌ Closed PR [#3](https://github.com/alikuxac/thuctap-be/pull/3) in [alikuxac/thuctap-be](https://github.com/alikuxac/thuctap-be)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
