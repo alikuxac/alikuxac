@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 1.1.0](https://github.com/alikuxac/utilities/releases/tag/1.1.0) in [alikuxac/utilities](https://github.com/alikuxac/utilities)
-2. 🎉 Merged PR [#5](https://github.com/alikuxac/utilities/pull/5) in [alikuxac/utilities](https://github.com/alikuxac/utilities)
-3. 🎉 Merged PR [#127](https://github.com/alikuxac/api/pull/127) in [alikuxac/api](https://github.com/alikuxac/api)
-4. 🎉 Merged PR [#10](https://github.com/alikuxac/website/pull/10) in [alikuxac/website](https://github.com/alikuxac/website)
-5. 🎉 Merged PR [#86](https://github.com/alikuxac/AliMusic/pull/86) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+1. 💪 Opened PR [#129](https://github.com/alikuxac/api/pull/129) in [alikuxac/api](https://github.com/alikuxac/api)
+2. 🚀 Published release [Release 1.1.0](https://github.com/alikuxac/utilities/releases/tag/1.1.0) in [alikuxac/utilities](https://github.com/alikuxac/utilities)
+3. 🎉 Merged PR [#5](https://github.com/alikuxac/utilities/pull/5) in [alikuxac/utilities](https://github.com/alikuxac/utilities)
+4. 🎉 Merged PR [#127](https://github.com/alikuxac/api/pull/127) in [alikuxac/api](https://github.com/alikuxac/api)
+5. 🎉 Merged PR [#10](https://github.com/alikuxac/website/pull/10) in [alikuxac/website](https://github.com/alikuxac/website)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
