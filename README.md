@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#132](https://github.com/alikuxac/api/pull/132) in [alikuxac/api](https://github.com/alikuxac/api)
-2. ❌ Closed PR [#131](https://github.com/alikuxac/api/pull/131) in [alikuxac/api](https://github.com/alikuxac/api)
-3. 🎉 Merged PR [#130](https://github.com/alikuxac/api/pull/130) in [alikuxac/api](https://github.com/alikuxac/api)
-4. ❌ Closed PR [#129](https://github.com/alikuxac/api/pull/129) in [alikuxac/api](https://github.com/alikuxac/api)
-5. 💪 Opened PR [#129](https://github.com/alikuxac/api/pull/129) in [alikuxac/api](https://github.com/alikuxac/api)
+1. 💪 Opened PR [#133](https://github.com/alikuxac/api/pull/133) in [alikuxac/api](https://github.com/alikuxac/api)
+2. ❌ Closed PR [#132](https://github.com/alikuxac/api/pull/132) in [alikuxac/api](https://github.com/alikuxac/api)
+3. ❌ Closed PR [#131](https://github.com/alikuxac/api/pull/131) in [alikuxac/api](https://github.com/alikuxac/api)
+4. 🎉 Merged PR [#130](https://github.com/alikuxac/api/pull/130) in [alikuxac/api](https://github.com/alikuxac/api)
+5. ❌ Closed PR [#129](https://github.com/alikuxac/api/pull/129) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
