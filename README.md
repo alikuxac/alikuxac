@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.0](https://github.com/alikuxac/api/releases/tag/v2.1.0) in [alikuxac/api](https://github.com/alikuxac/api)
-2. 🎉 Merged PR [#133](https://github.com/alikuxac/api/pull/133) in [alikuxac/api](https://github.com/alikuxac/api)
-3. 🗣 Commented on [#133](https://github.com/alikuxac/api/pull/133#issuecomment-1711303837) in [alikuxac/api](https://github.com/alikuxac/api)
-4. 💪 Opened PR [#133](https://github.com/alikuxac/api/pull/133) in [alikuxac/api](https://github.com/alikuxac/api)
-5. ❌ Closed PR [#132](https://github.com/alikuxac/api/pull/132) in [alikuxac/api](https://github.com/alikuxac/api)
+1. 🎉 Merged PR [#134](https://github.com/alikuxac/api/pull/134) in [alikuxac/api](https://github.com/alikuxac/api)
+2. 🚀 Published release [v2.1.0](https://github.com/alikuxac/api/releases/tag/v2.1.0) in [alikuxac/api](https://github.com/alikuxac/api)
+3. 🎉 Merged PR [#133](https://github.com/alikuxac/api/pull/133) in [alikuxac/api](https://github.com/alikuxac/api)
+4. 🗣 Commented on [#133](https://github.com/alikuxac/api/pull/133#issuecomment-1711303837) in [alikuxac/api](https://github.com/alikuxac/api)
+5. 💪 Opened PR [#133](https://github.com/alikuxac/api/pull/133) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
