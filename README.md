@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/alikuxac/website/pull/17) in [alikuxac/website](https://github.com/alikuxac/website)
-2. 💪 Opened PR [#101](https://github.com/alikuxac/AliMusic/pull/101) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
-3. 💪 Opened PR [#100](https://github.com/alikuxac/AliMusic/pull/100) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
-4. 💪 Opened PR [#99](https://github.com/alikuxac/AliMusic/pull/99) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
-5. 💪 Opened PR [#98](https://github.com/alikuxac/AliMusic/pull/98) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+1. 🎉 Merged PR [#87](https://github.com/alikuxac/AliMusic/pull/87) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+2. ❌ Closed PR [#101](https://github.com/alikuxac/AliMusic/pull/101) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+3. ❌ Closed PR [#100](https://github.com/alikuxac/AliMusic/pull/100) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+4. ❌ Closed PR [#99](https://github.com/alikuxac/AliMusic/pull/99) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+5. ❌ Closed PR [#98](https://github.com/alikuxac/AliMusic/pull/98) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
