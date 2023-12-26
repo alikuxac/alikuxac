@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/alikuxac/dashy/pull/3) in [alikuxac/dashy](https://github.com/alikuxac/dashy)
-2. 🎉 Merged PR [#2](https://github.com/alikuxac/dashy/pull/2) in [alikuxac/dashy](https://github.com/alikuxac/dashy)
-3. 🎉 Merged PR [#1](https://github.com/alikuxac/dashy/pull/1) in [alikuxac/dashy](https://github.com/alikuxac/dashy)
-4. 🎉 Merged PR [#103](https://github.com/alikuxac/AliMusic/pull/103) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
-5. 🎉 Merged PR [#102](https://github.com/alikuxac/AliMusic/pull/102) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+1. 🎉 Merged PR [#146](https://github.com/alikuxac/api/pull/146) in [alikuxac/api](https://github.com/alikuxac/api)
+2. 🎉 Merged PR [#145](https://github.com/alikuxac/api/pull/145) in [alikuxac/api](https://github.com/alikuxac/api)
+3. 🎉 Merged PR [#144](https://github.com/alikuxac/api/pull/144) in [alikuxac/api](https://github.com/alikuxac/api)
+4. 🎉 Merged PR [#3](https://github.com/alikuxac/dashy/pull/3) in [alikuxac/dashy](https://github.com/alikuxac/dashy)
+5. 🎉 Merged PR [#2](https://github.com/alikuxac/dashy/pull/2) in [alikuxac/dashy](https://github.com/alikuxac/dashy)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
