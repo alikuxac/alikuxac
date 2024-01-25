@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/alikuxac/api/pull/149) in [alikuxac/api](https://github.com/alikuxac/api)
-2. 🎉 Merged PR [#148](https://github.com/alikuxac/api/pull/148) in [alikuxac/api](https://github.com/alikuxac/api)
-3. 🎉 Merged PR [#147](https://github.com/alikuxac/api/pull/147) in [alikuxac/api](https://github.com/alikuxac/api)
-4. 🎉 Merged PR [#10](https://github.com/alikuxac/tsconfig/pull/10) in [alikuxac/tsconfig](https://github.com/alikuxac/tsconfig)
-5. 🎉 Merged PR [#28](https://github.com/alikuxac/douyin-worker/pull/28) in [alikuxac/douyin-worker](https://github.com/alikuxac/douyin-worker)
+1. 🎉 Merged PR [#2](https://github.com/alikuxac/string-is/pull/2) in [alikuxac/string-is](https://github.com/alikuxac/string-is)
+2. ❌ Closed PR [#11](https://github.com/alikuxac/string-is/pull/11) in [alikuxac/string-is](https://github.com/alikuxac/string-is)
+3. 🎉 Merged PR [#1](https://github.com/alikuxac/string-is/pull/1) in [alikuxac/string-is](https://github.com/alikuxac/string-is)
+4. 🎉 Merged PR [#149](https://github.com/alikuxac/api/pull/149) in [alikuxac/api](https://github.com/alikuxac/api)
+5. 🎉 Merged PR [#148](https://github.com/alikuxac/api/pull/148) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
