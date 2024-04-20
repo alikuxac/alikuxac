@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/alikuxac/AliMusic/pull/104) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
-2. 🎉 Merged PR [#155](https://github.com/alikuxac/api/pull/155) in [alikuxac/api](https://github.com/alikuxac/api)
-3. 🎉 Merged PR [#154](https://github.com/alikuxac/api/pull/154) in [alikuxac/api](https://github.com/alikuxac/api)
-4. 🎉 Merged PR [#153](https://github.com/alikuxac/api/pull/153) in [alikuxac/api](https://github.com/alikuxac/api)
-5. 🎉 Merged PR [#35](https://github.com/alikuxac/string-is/pull/35) in [alikuxac/string-is](https://github.com/alikuxac/string-is)
+1. 🎉 Merged PR [#105](https://github.com/alikuxac/AliMusic/pull/105) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+2. 🎉 Merged PR [#104](https://github.com/alikuxac/AliMusic/pull/104) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+3. 🎉 Merged PR [#155](https://github.com/alikuxac/api/pull/155) in [alikuxac/api](https://github.com/alikuxac/api)
+4. 🎉 Merged PR [#154](https://github.com/alikuxac/api/pull/154) in [alikuxac/api](https://github.com/alikuxac/api)
+5. 🎉 Merged PR [#153](https://github.com/alikuxac/api/pull/153) in [alikuxac/api](https://github.com/alikuxac/api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
