@@ -23,11 +23,11 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/alikuxac/dashy-test/pull/1#issuecomment-2266140166) in [alikuxac/dashy-test](https://github.com/alikuxac/dashy-test)
-2. ❌ Closed PR [#162](https://github.com/alikuxac/api/pull/162) in [alikuxac/api](https://github.com/alikuxac/api)
-3. ❌ Closed PR [#161](https://github.com/alikuxac/api/pull/161) in [alikuxac/api](https://github.com/alikuxac/api)
-4. 🎉 Merged PR [#125](https://github.com/alikuxac/AliMusic/pull/125) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
-5. 🎉 Merged PR [#124](https://github.com/alikuxac/AliMusic/pull/124) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+1. 💪 Opened PR [#359](https://github.com/ZigvyCorp/interview-home-work/pull/359) in [ZigvyCorp/interview-home-work](https://github.com/ZigvyCorp/interview-home-work)
+2. 🗣 Commented on [#1](https://github.com/alikuxac/dashy-test/pull/1#issuecomment-2266140166) in [alikuxac/dashy-test](https://github.com/alikuxac/dashy-test)
+3. ❌ Closed PR [#162](https://github.com/alikuxac/api/pull/162) in [alikuxac/api](https://github.com/alikuxac/api)
+4. ❌ Closed PR [#161](https://github.com/alikuxac/api/pull/161) in [alikuxac/api](https://github.com/alikuxac/api)
+5. 🎉 Merged PR [#125](https://github.com/alikuxac/AliMusic/pull/125) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
