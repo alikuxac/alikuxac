@@ -19,11 +19,11 @@ Nickname: Alikuxac.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#164](https://github.com/alikuxac/api/pull/164) in [alikuxac/api](https://github.com/alikuxac/api)
-2. 🎉 Merged PR [#163](https://github.com/alikuxac/api/pull/163) in [alikuxac/api](https://github.com/alikuxac/api)
-3. 💪 Opened PR [#359](https://github.com/ZigvyCorp/interview-home-work/pull/359) in [ZigvyCorp/interview-home-work](https://github.com/ZigvyCorp/interview-home-work)
-4. ❌ Closed PR [#161](https://github.com/alikuxac/api/pull/161) in [alikuxac/api](https://github.com/alikuxac/api)
-5. 🎉 Merged PR [#125](https://github.com/alikuxac/AliMusic/pull/125) in [alikuxac/AliMusic](https://github.com/alikuxac/AliMusic)
+1. 🎉 Merged PR [#5](https://github.com/alikuxac/discord-oidc/pull/5) in [alikuxac/discord-oidc](https://github.com/alikuxac/discord-oidc)
+2. 🎉 Merged PR [#4](https://github.com/alikuxac/discord-oidc/pull/4) in [alikuxac/discord-oidc](https://github.com/alikuxac/discord-oidc)
+3. 🎉 Merged PR [#3](https://github.com/alikuxac/discord-oidc/pull/3) in [alikuxac/discord-oidc](https://github.com/alikuxac/discord-oidc)
+4. ❌ Closed PR [#2](https://github.com/alikuxac/discord-oidc/pull/2) in [alikuxac/discord-oidc](https://github.com/alikuxac/discord-oidc)
+5. ❌ Closed PR [#1](https://github.com/alikuxac/discord-oidc/pull/1) in [alikuxac/discord-oidc](https://github.com/alikuxac/discord-oidc)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
