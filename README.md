@@ -1,10 +1,10 @@
 # Hi, I'm Alikuxac! 👋
-[![wakatime](https://wakatime.com/badge/user/f351a39f-05c3-4440-84c7-6444ba23d95e.svg)](https://wakatime.com/@alikuxac)
-## 🚀 About Me
-Nickname: Alikuxac.
 
 ## 🔗 Links
 [![portfolio][portfolio-badge]][website-link][![twitter][twitter-badge]][twitter-link][![discord][discord-badge]][discord-link]
+
+<!-- Github metric --->
+![Metrics](/github-metrics.svg)
 
 ## 🛠 Skills
 <!---### Frontend--->
@@ -14,95 +14,6 @@ Nickname: Alikuxac.
 ### Database
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()[![](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=RedislogoColor=white)]()
 <!---### Tools--->
-
-<!---### Framework--->
-
-### Github Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/alikuxac/discord-oidc/pull/5) in [alikuxac/discord-oidc](https://github.com/alikuxac/discord-oidc)
-2. 🎉 Merged PR [#4](https://github.com/alikuxac/discord-oidc/pull/4) in [alikuxac/discord-oidc](https://github.com/alikuxac/discord-oidc)
-3. 🎉 Merged PR [#3](https://github.com/alikuxac/discord-oidc/pull/3) in [alikuxac/discord-oidc](https://github.com/alikuxac/discord-oidc)
-4. ❌ Closed PR [#2](https://github.com/alikuxac/discord-oidc/pull/2) in [alikuxac/discord-oidc](https://github.com/alikuxac/discord-oidc)
-5. ❌ Closed PR [#1](https://github.com/alikuxac/discord-oidc/pull/1) in [alikuxac/discord-oidc](https://github.com/alikuxac/discord-oidc)
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C858%20hrs%2017%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 865 Contributions in the Year 2022
- > 
-> 📦 25.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 13 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    157 commits    ███████░░░░░░░░░░░░░░░░░░   30.08% 
-🌆 Daytime    126 commits    ██████░░░░░░░░░░░░░░░░░░░   24.14% 
-🌃 Evening    151 commits    ███████░░░░░░░░░░░░░░░░░░   28.93% 
-🌙 Night      88 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.86%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Tuesday      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Wednesday    94 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-Thursday     89 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
-Friday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
-Saturday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
-Sunday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-TypeScript               54 mins             ████████████████████████░   98.4% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
-
-🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               12 repos            ██████████░░░░░░░░░░░░░░░   42.86% 
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/alikuxac/alikuxac/master/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 12:41:40 UTC
-<!--END_SECTION:waka-->
 
 <!--- Link definition --->
 [website-link]: https://alikuxac.xyz/
