@@ -1,7 +1,11 @@
 # Hi, I'm Alikuxac! 👋
 
+A passionate developer exploring and building innovative solutions.
+
 ## 🔗 Links
-[![portfolio][portfolio-badge]][website-link][![twitter][twitter-badge]][twitter-link][![discord][discord-badge]][discord-link]
+[![Portfolio][portfolio-badge]][website-link]
+[![Twitter][twitter-badge]][twitter-link]
+[![Discord][discord-badge]][discord-link]
 
 <!-- Github metric --->
 ![Metrics](/github-metrics.svg)
@@ -9,11 +13,24 @@
 ## 🛠 Skills
 <!---### Frontend--->
 
-### Backend
-[![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()[![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-### Database
-[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()[![](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=RedislogoColor=white)]()
-<!---### Tools--->
+**Backend:**
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+
+**Databases:**
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)]()
+
+**Tools & Infrastructure:**
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)]()
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
+
+**Message Queues:**
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white)]()
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)]()
 
 <!--- Link definition --->
 [website-link]: https://alikuxac.xyz/
