@@ -1887,7 +1887,7 @@
         
           <small>
             
-              estimation from 13.1mb of code in 4120 edited files across 1073 commits
+              estimation from 11.7mb of code in 4432 edited files across 1011 commits
             
           </small>
         
@@ -1898,21 +1898,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="275.47600563872066" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="272.37207920915466" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="275.47600563872066" y="0" width="169.58986837661638" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="272.37207920915466" y="0" width="171.42856450542047" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="445.065874015337" y="0" width="5.380062471540548" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="443.80064371457513" y="0" width="5.823449958426479" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="450.44593648687754" y="0" width="4.375220323388967" height="8" fill="#f7931e"/>
+              <rect mask="url(#languages-bar)" x="449.6240936730016" y="0" width="3.888138496250075" height="8" fill="#f7931e"/>
             
-              <rect mask="url(#languages-bar)" x="454.8211568102665" y="0" width="2.3313126229672307" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="453.51223216925166" y="0" width="2.341195032777658" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="457.15246943323376" y="0" width="1.929411599731853" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="455.85342720202937" y="0" width="2.313170117742028" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="459.0818810329656" y="0" width="0.6586661441878058" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="458.16659731977137" y="0" width="1.6028340610718836" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="459.7405471771534" y="0" width="0.25945282284655674" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="459.76943138084323" y="0" width="0.23056861915677407" height="8" fill="#e34c26"/>
             
           </svg>
         
@@ -1940,6 +1940,11 @@
               </div>
             
               <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Kotlin
+              </div>
+            
+              <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Dockerfile
               </div>
@@ -1947,11 +1952,6 @@
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 CSS
-              </div>
-            
-              <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Kotlin
               </div>
             
               <div class="field center no-wrap language">
@@ -2102,7 +2102,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 4 Mar 2026, 01:59:29 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 4 Mar 2026, 02:44:17 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
