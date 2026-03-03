@@ -1887,7 +1887,7 @@
         
           <small>
             
-              estimation from 15.4mb of code in 4898 edited files across 1115 commits
+              estimation from 13.1mb of code in 4120 edited files across 1073 commits
             
           </small>
         
@@ -1898,21 +1898,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="268.807040167493" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="275.47600563872066" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="268.807040167493" y="0" width="160.1025199604573" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="275.47600563872066" y="0" width="169.58986837661638" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="428.90956012795033" y="0" width="12.041524318070689" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="445.065874015337" y="0" width="5.380062471540548" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="440.951084446021" y="0" width="8.499106877573823" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="450.44593648687754" y="0" width="4.375220323388967" height="8" fill="#f7931e"/>
             
-              <rect mask="url(#languages-bar)" x="449.4501913235948" y="0" width="3.6157149630921057" height="8" fill="#f7931e"/>
+              <rect mask="url(#languages-bar)" x="454.8211568102665" y="0" width="2.3313126229672307" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="453.0659062866869" y="0" width="2.605837985113231" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="457.15246943323376" y="0" width="1.929411599731853" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="455.67174427180015" y="0" width="2.177158534783489" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="459.0818810329656" y="0" width="0.6586661441878058" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="457.8489028065836" y="0" width="2.1510971934162924" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="459.7405471771534" y="0" width="0.25945282284655674" height="8" fill="#e34c26"/>
             
           </svg>
         
@@ -1930,11 +1930,6 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Java
-              </div>
-            
-              <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 JavaScript
               </div>
@@ -1942,6 +1937,11 @@
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f7931e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Handlebars
+              </div>
+            
+              <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Dockerfile
               </div>
             
               <div class="field center no-wrap language">
@@ -1955,8 +1955,8 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Dockerfile
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                HTML
               </div>
             
           </div>
@@ -2102,7 +2102,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 4 Mar 2026, 00:52:08 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 4 Mar 2026, 01:59:29 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
