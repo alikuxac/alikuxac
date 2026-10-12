@@ -9,6 +9,9 @@ I spend most of my time building tools, backend pipelines, and serverless archit
 [![Twitter][twitter-badge]][twitter-link]
 [![Discord][discord-badge]][discord-link]
 
+<!-- Github metric --->
+![Metrics](/github-metrics.svg)
+
 ## 🛠 Tech Stack
 **Languages & Runtime:**
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
